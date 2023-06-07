@@ -1,6 +1,7 @@
 # Simple Hardhat Project
 
 ## This is my fisrt smart contract development practice.
+Thanks for freeCodeCamp.org
 
 <br>
 
